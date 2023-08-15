@@ -1,0 +1,25 @@
+body {
+    background-color: #f3a4c4;
+}
+
+
+#flex {
+    display: flex;
+}
+
+#top {
+    width: 100%;
+    padding: 0px;
+}
+
+#top hr {
+    width: 100%;
+}
+
+#top p {
+    margin: 0px;
+}
+
+#content-box{
+    border: #bbbbbb;
+}
